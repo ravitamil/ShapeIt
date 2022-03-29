@@ -5,3 +5,5 @@ Creating Shapeit application:
 3. Challenges and game tab 
 4. Activity tab with detailes steps, Distance covered, Calories burned, Session timings
 5. Rewards tab with products 
+
+Smample inclusion
